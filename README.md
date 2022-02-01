@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danika Pearson
-- 👀 Checkout my Portfolio 
-- ✨ I’m interested in technology, art & dogs.
+- 👀 Checkout my Portfolio- https://karmadog72.github.io/portfolio-challenge-/
+- ✨ I’m interested in technology 💻, art 🎨 & dogs 🐶.
 - 🌱 I’m currently learning FullStack computer coding through The University of Utah's Boot Camp program. 
 - ✨ I’m looking to collaborate on coding
 - 📫 You can contact me through my LinkedIn -https://www.linkedin.com/in/danika-pearson/ or my direct email- danika.m.pearson@gmail.com 
