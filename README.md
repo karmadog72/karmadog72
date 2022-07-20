@@ -2,7 +2,7 @@
 - 👀 Checkout my Portfolio- https://karmadog72.github.io/React-Portfolio/
 - ✨ I’m interested in technology 💻, art 🎨 & dogs 🐶.
 - 🌱 I have a Certificate in FullStack Web Decelopment through the University of Utah's Boot Camp program. 
-- ✨ I’m open to to work and looking to start working with a great team!
+- ✨ I’m open to to work and looking to start a new career in tech & coding!
 - 📫 You can contact me through my LinkedIn -https://www.linkedin.com/in/danika-pearson/ or my direct email- danika.m.pearson@gmail.com 
 
 <!---
